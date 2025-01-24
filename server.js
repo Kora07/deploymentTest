@@ -10,6 +10,6 @@ app.listen(port, () => {
 })
 
 app.get("/", (request, response) => {
-    response.send("Sup")
+    response.send("Hello There")
 })
 
