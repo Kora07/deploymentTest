@@ -1,0 +1,26 @@
+{
+  "name": "deploymenttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kora07/deploymentTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kora07/deploymentTest/issues"
+  },
+  "homepage": "https://github.com/Kora07/deploymentTest#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node": "^18.20.6",
+    "nodemon": "^3.1.9"
+  }
+}
